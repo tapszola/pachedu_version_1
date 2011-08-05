@@ -54,7 +54,7 @@
 		<div id="container-holdera" class="clearfixx">
 			<!-- Mainarea Starts -->
 			<div id="mainarea">
-			    $PageBanner
+			    $AboutBanner
 				$Layout
 			</div>
 		<!-- Mainarea Ends -->
